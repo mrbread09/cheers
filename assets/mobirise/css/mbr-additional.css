@@ -1532,6 +1532,18 @@ body {
   font-size: 20px;
   color: #232323;
 }
+.cid-qT0Cutz4oM {
+  background-color: #ffffff;
+}
+.cid-qT0Cutz4oM .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qT0Cutz4oM .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qQhrOGju8c {
   padding-top: 30px;
   padding-bottom: 15px;
